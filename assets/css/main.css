@@ -2473,17 +2473,14 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 20px 6em 20px;
 			}
 
 				#header > header {
-					padding: 0 1em 0 1em;
 				}
 
 		/* Main Sections */
 
 			.main > header {
-				padding: 3em 20px 3em 20px;
 			}
 
 				.main > header h2 {
