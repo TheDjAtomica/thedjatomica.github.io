@@ -249,10 +249,10 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
-		width: 1360px;
+		width: 1920px;
 	}
 
-	img {max-width: 100%;height: auto;object-fit: cover;}
+	img {width: 100%;height: auto;object-fit: cover;}
 			
 		.container.medium {
 			width: 1020px;
